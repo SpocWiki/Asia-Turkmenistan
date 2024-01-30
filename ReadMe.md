@@ -108,8 +108,8 @@ id: Turkmenistan
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Turkmenistan/
-markerFolder: ./Turkmenistan/
+geojsonFolder: ./
+markerFolder: ./
 ```
 
 [name-en::Turkmenistan] 
