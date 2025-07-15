@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40,52.98] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Krassnowodsk|Krassnowodsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Krassnowodsk.public|Krassnowodsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Krassnowodsk.internal|Krassnowodsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Krassnowodsk.protect|Krassnowodsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Krassnowodsk.private|Krassnowodsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Krassnowodsk.personal|Krassnowodsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Krassnowodsk.secret|Krassnowodsk.secret]] 
+
+### #is_/same_as :: [Krassnowodsk](/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan/City/Krassnowodsk.md) 
+
+### #is_/same_as :: [Krassnowodsk.public](/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan/City/Krassnowodsk.public.md) 
+
+### #is_/same_as :: [Krassnowodsk.internal](/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan/City/Krassnowodsk.internal.md) 
+
+### #is_/same_as :: [Krassnowodsk.protect](/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan/City/Krassnowodsk.protect.md) 
+
+### #is_/same_as :: [Krassnowodsk.private](/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan/City/Krassnowodsk.private.md) 
+
+### #is_/same_as :: [Krassnowodsk.personal](/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan/City/Krassnowodsk.personal.md) 
+
+### #is_/same_as :: [Krassnowodsk.secret](/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan/City/Krassnowodsk.secret.md)
+

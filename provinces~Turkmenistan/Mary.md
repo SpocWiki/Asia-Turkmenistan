@@ -40,11 +40,18 @@ markerFolder: ./Mary/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Mary|Mary]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Mary.public|Mary.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Mary.internal|Mary.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Mary.protect|Mary.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Mary.private|Mary.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Mary.personal|Mary.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Mary.secret|Mary.secret]] 
+
+### #is_/same_as :: [Mary](/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Mary.md) 
+
+### #is_/same_as :: [Mary.public](/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Mary.public.md) 
+
+### #is_/same_as :: [Mary.internal](/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Mary.internal.md) 
+
+### #is_/same_as :: [Mary.protect](/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Mary.protect.md) 
+
+### #is_/same_as :: [Mary.private](/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Mary.private.md) 
+
+### #is_/same_as :: [Mary.personal](/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Mary.personal.md) 
+
+### #is_/same_as :: [Mary.secret](/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Mary.secret.md)
 

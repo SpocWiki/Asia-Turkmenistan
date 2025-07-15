@@ -40,11 +40,18 @@ markerFolder: ./Balkan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan|Balkan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.public|Balkan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.internal|Balkan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.protect|Balkan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.private|Balkan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.personal|Balkan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.secret|Balkan.secret]] 
+
+### #is_/same_as :: [Balkan](/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan.md) 
+
+### #is_/same_as :: [Balkan.public](/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan.public.md) 
+
+### #is_/same_as :: [Balkan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan.internal.md) 
+
+### #is_/same_as :: [Balkan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan.protect.md) 
+
+### #is_/same_as :: [Balkan.private](/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan.private.md) 
+
+### #is_/same_as :: [Balkan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan.personal.md) 
+
+### #is_/same_as :: [Balkan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan.secret.md)
 

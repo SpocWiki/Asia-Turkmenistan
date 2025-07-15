@@ -129,10 +129,4 @@ Capital :: [[Turkmenistan/Counties/Ahal/City/Ashgabat]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Turkmenistan|Turkmenistan]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~Central/Turkmenistan.internal|Turkmenistan.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~Central/Turkmenistan.protect|Turkmenistan.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~Central/Turkmenistan.private|Turkmenistan.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~Central/Turkmenistan.personal|Turkmenistan.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~Central/Turkmenistan.secret|Turkmenistan.secret]] 
+

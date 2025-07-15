@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.03,63.6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Tschardschui|Tschardschui]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tschardschui.public|Tschardschui.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschardschui.internal|Tschardschui.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschardschui.protect|Tschardschui.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschardschui.private|Tschardschui.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschardschui.personal|Tschardschui.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschardschui.secret|Tschardschui.secret]] 
+
+### #is_/same_as :: [Tschardschui](/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap/City/Tschardschui.md) 
+
+### #is_/same_as :: [Tschardschui.public](/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap/City/Tschardschui.public.md) 
+
+### #is_/same_as :: [Tschardschui.internal](/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap/City/Tschardschui.internal.md) 
+
+### #is_/same_as :: [Tschardschui.protect](/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap/City/Tschardschui.protect.md) 
+
+### #is_/same_as :: [Tschardschui.private](/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap/City/Tschardschui.private.md) 
+
+### #is_/same_as :: [Tschardschui.personal](/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap/City/Tschardschui.personal.md) 
+
+### #is_/same_as :: [Tschardschui.secret](/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap/City/Tschardschui.secret.md)
+

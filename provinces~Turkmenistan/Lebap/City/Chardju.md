@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Chardju|Chardju]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Chardju.public|Chardju.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Chardju.internal|Chardju.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Chardju.protect|Chardju.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Chardju.private|Chardju.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Chardju.personal|Chardju.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Chardju.secret|Chardju.secret]] 
+
+### #is_/same_as :: [Chardju](/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap/City/Chardju.md) 
+
+### #is_/same_as :: [Chardju.public](/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap/City/Chardju.public.md) 
+
+### #is_/same_as :: [Chardju.internal](/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap/City/Chardju.internal.md) 
+
+### #is_/same_as :: [Chardju.protect](/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap/City/Chardju.protect.md) 
+
+### #is_/same_as :: [Chardju.private](/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap/City/Chardju.private.md) 
+
+### #is_/same_as :: [Chardju.personal](/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap/City/Chardju.personal.md) 
+
+### #is_/same_as :: [Chardju.secret](/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap/City/Chardju.secret.md)
+

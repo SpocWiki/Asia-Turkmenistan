@@ -1,4 +1,4 @@
-﻿---
+---
 location: [37.95,58.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Askhabad|Askhabad]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Askhabad.public|Askhabad.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Askhabad.internal|Askhabad.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Askhabad.protect|Askhabad.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Askhabad.private|Askhabad.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Askhabad.personal|Askhabad.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Askhabad.secret|Askhabad.secret]] 
+
+### #is_/same_as :: [Askhabad](/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Askhabad.md) 
+
+### #is_/same_as :: [Askhabad.public](/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Askhabad.public.md) 
+
+### #is_/same_as :: [Askhabad.internal](/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Askhabad.internal.md) 
+
+### #is_/same_as :: [Askhabad.protect](/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Askhabad.protect.md) 
+
+### #is_/same_as :: [Askhabad.private](/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Askhabad.private.md) 
+
+### #is_/same_as :: [Askhabad.personal](/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Askhabad.personal.md) 
+
+### #is_/same_as :: [Askhabad.secret](/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Askhabad.secret.md)
+

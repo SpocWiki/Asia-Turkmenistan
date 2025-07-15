@@ -40,11 +40,18 @@ markerFolder: ./Ahal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Ahal|Ahal]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Ahal.public|Ahal.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Ahal.internal|Ahal.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Ahal.protect|Ahal.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Ahal.private|Ahal.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Ahal.personal|Ahal.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Ahal.secret|Ahal.secret]] 
+
+### #is_/same_as :: [Ahal](/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal.md) 
+
+### #is_/same_as :: [Ahal.public](/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal.public.md) 
+
+### #is_/same_as :: [Ahal.internal](/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal.internal.md) 
+
+### #is_/same_as :: [Ahal.protect](/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal.protect.md) 
+
+### #is_/same_as :: [Ahal.private](/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal.private.md) 
+
+### #is_/same_as :: [Ahal.personal](/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal.personal.md) 
+
+### #is_/same_as :: [Ahal.secret](/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal.secret.md)
 
