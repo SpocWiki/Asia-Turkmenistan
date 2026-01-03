@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Krassnowodsk](/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan/City/Krassnowodsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan/City/Krassnowodsk|Krassnowodsk]] 
 
-### #is_/same_as :: [Krassnowodsk.public](/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan/City/Krassnowodsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan/City/Krassnowodsk.public|Krassnowodsk.public]] 
 
-### #is_/same_as :: [Krassnowodsk.internal](/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan/City/Krassnowodsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan/City/Krassnowodsk.internal|Krassnowodsk.internal]] 
 
-### #is_/same_as :: [Krassnowodsk.protect](/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan/City/Krassnowodsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan/City/Krassnowodsk.protect|Krassnowodsk.protect]] 
 
-### #is_/same_as :: [Krassnowodsk.private](/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan/City/Krassnowodsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan/City/Krassnowodsk.private|Krassnowodsk.private]] 
 
-### #is_/same_as :: [Krassnowodsk.personal](/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan/City/Krassnowodsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan/City/Krassnowodsk.personal|Krassnowodsk.personal]] 
 
-### #is_/same_as :: [Krassnowodsk.secret](/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan/City/Krassnowodsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Balkan/City/Krassnowodsk.secret|Krassnowodsk.secret]] 
 

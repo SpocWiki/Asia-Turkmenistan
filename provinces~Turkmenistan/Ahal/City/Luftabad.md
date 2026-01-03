@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Luftabad](/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Luftabad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Luftabad|Luftabad]] 
 
-### #is_/same_as :: [Luftabad.public](/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Luftabad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Luftabad.public|Luftabad.public]] 
 
-### #is_/same_as :: [Luftabad.internal](/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Luftabad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Luftabad.internal|Luftabad.internal]] 
 
-### #is_/same_as :: [Luftabad.protect](/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Luftabad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Luftabad.protect|Luftabad.protect]] 
 
-### #is_/same_as :: [Luftabad.private](/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Luftabad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Luftabad.private|Luftabad.private]] 
 
-### #is_/same_as :: [Luftabad.personal](/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Luftabad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Luftabad.personal|Luftabad.personal]] 
 
-### #is_/same_as :: [Luftabad.secret](/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Luftabad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Luftabad.secret|Luftabad.secret]] 
 

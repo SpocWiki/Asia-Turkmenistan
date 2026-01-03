@@ -40,17 +40,17 @@ markerFolder: ./Chardzhou/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lebap](/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap|Lebap]] 
 
-### #is_/same_as :: [Lebap.public](/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap.public|Lebap.public]] 
 
-### #is_/same_as :: [Lebap.internal](/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap.internal|Lebap.internal]] 
 
-### #is_/same_as :: [Lebap.protect](/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap.protect|Lebap.protect]] 
 
-### #is_/same_as :: [Lebap.private](/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap.private|Lebap.private]] 
 
-### #is_/same_as :: [Lebap.personal](/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap.personal|Lebap.personal]] 
 
-### #is_/same_as :: [Lebap.secret](/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Lebap.secret|Lebap.secret]] 
 

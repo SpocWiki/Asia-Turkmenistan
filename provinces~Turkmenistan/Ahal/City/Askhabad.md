@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Askhabad](/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Askhabad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Askhabad|Askhabad]] 
 
-### #is_/same_as :: [Askhabad.public](/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Askhabad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Askhabad.public|Askhabad.public]] 
 
-### #is_/same_as :: [Askhabad.internal](/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Askhabad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Askhabad.internal|Askhabad.internal]] 
 
-### #is_/same_as :: [Askhabad.protect](/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Askhabad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Askhabad.protect|Askhabad.protect]] 
 
-### #is_/same_as :: [Askhabad.private](/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Askhabad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Askhabad.private|Askhabad.private]] 
 
-### #is_/same_as :: [Askhabad.personal](/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Askhabad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Askhabad.personal|Askhabad.personal]] 
 
-### #is_/same_as :: [Askhabad.secret](/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Askhabad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Askhabad.secret|Askhabad.secret]] 
 

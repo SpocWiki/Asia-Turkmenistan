@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kauschit-Kala](/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Mary/City/Kauschit-Kala.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Mary/City/Kauschit-Kala|Kauschit-Kala]] 
 
-### #is_/same_as :: [Kauschit-Kala.public](/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Mary/City/Kauschit-Kala.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Mary/City/Kauschit-Kala.public|Kauschit-Kala.public]] 
 
-### #is_/same_as :: [Kauschit-Kala.internal](/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Mary/City/Kauschit-Kala.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Mary/City/Kauschit-Kala.internal|Kauschit-Kala.internal]] 
 
-### #is_/same_as :: [Kauschit-Kala.protect](/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Mary/City/Kauschit-Kala.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Mary/City/Kauschit-Kala.protect|Kauschit-Kala.protect]] 
 
-### #is_/same_as :: [Kauschit-Kala.private](/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Mary/City/Kauschit-Kala.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Mary/City/Kauschit-Kala.private|Kauschit-Kala.private]] 
 
-### #is_/same_as :: [Kauschit-Kala.personal](/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Mary/City/Kauschit-Kala.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Mary/City/Kauschit-Kala.personal|Kauschit-Kala.personal]] 
 
-### #is_/same_as :: [Kauschit-Kala.secret](/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Mary/City/Kauschit-Kala.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Mary/City/Kauschit-Kala.secret|Kauschit-Kala.secret]] 
 

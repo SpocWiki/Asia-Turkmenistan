@@ -112,19 +112,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ashgabat)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ashgabat](/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Ashgabat.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Ashgabat|Ashgabat]] 
 
-### #is_/same_as :: [Ashgabat.public](/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Ashgabat.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Ashgabat.public|Ashgabat.public]] 
 
-### #is_/same_as :: [Ashgabat.internal](/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Ashgabat.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Ashgabat.internal|Ashgabat.internal]] 
 
-### #is_/same_as :: [Ashgabat.protect](/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Ashgabat.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Ashgabat.protect|Ashgabat.protect]] 
 
-### #is_/same_as :: [Ashgabat.private](/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Ashgabat.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Ashgabat.private|Ashgabat.private]] 
 
-### #is_/same_as :: [Ashgabat.personal](/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Ashgabat.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Ashgabat.personal|Ashgabat.personal]] 
 
-### #is_/same_as :: [Ashgabat.secret](/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Ashgabat.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Ashgabat.secret|Ashgabat.secret]] 
 

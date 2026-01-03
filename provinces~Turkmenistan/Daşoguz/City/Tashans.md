@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tashans](/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz/City/Tashans.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz/City/Tashans|Tashans]] 
 
-### #is_/same_as :: [Tashans.public](/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz/City/Tashans.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz/City/Tashans.public|Tashans.public]] 
 
-### #is_/same_as :: [Tashans.internal](/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz/City/Tashans.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz/City/Tashans.internal|Tashans.internal]] 
 
-### #is_/same_as :: [Tashans.protect](/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz/City/Tashans.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz/City/Tashans.protect|Tashans.protect]] 
 
-### #is_/same_as :: [Tashans.private](/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz/City/Tashans.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz/City/Tashans.private|Tashans.private]] 
 
-### #is_/same_as :: [Tashans.personal](/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz/City/Tashans.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz/City/Tashans.personal|Tashans.personal]] 
 
-### #is_/same_as :: [Tashans.secret](/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz/City/Tashans.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz/City/Tashans.secret|Tashans.secret]] 
 

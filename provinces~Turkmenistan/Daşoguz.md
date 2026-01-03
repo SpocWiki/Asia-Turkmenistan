@@ -40,17 +40,17 @@ markerFolder: ./Tashauz/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Daşoguz](/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz|Daşoguz]] 
 
-### #is_/same_as :: [Daşoguz.public](/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz.public|Daşoguz.public]] 
 
-### #is_/same_as :: [Daşoguz.internal](/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz.internal|Daşoguz.internal]] 
 
-### #is_/same_as :: [Daşoguz.protect](/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz.protect|Daşoguz.protect]] 
 
-### #is_/same_as :: [Daşoguz.private](/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz.private|Daşoguz.private]] 
 
-### #is_/same_as :: [Daşoguz.personal](/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz.personal|Daşoguz.personal]] 
 
-### #is_/same_as :: [Daşoguz.secret](/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Daşoguz.secret|Daşoguz.secret]] 
 

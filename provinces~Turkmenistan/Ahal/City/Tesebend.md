@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tesebend](/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Tesebend.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Tesebend|Tesebend]] 
 
-### #is_/same_as :: [Tesebend.public](/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Tesebend.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Tesebend.public|Tesebend.public]] 
 
-### #is_/same_as :: [Tesebend.internal](/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Tesebend.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Tesebend.internal|Tesebend.internal]] 
 
-### #is_/same_as :: [Tesebend.protect](/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Tesebend.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Tesebend.protect|Tesebend.protect]] 
 
-### #is_/same_as :: [Tesebend.private](/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Tesebend.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Tesebend.private|Tesebend.private]] 
 
-### #is_/same_as :: [Tesebend.personal](/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Tesebend.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Tesebend.personal|Tesebend.personal]] 
 
-### #is_/same_as :: [Tesebend.secret](/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Tesebend.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan/provinces~Turkmenistan/Ahal/City/Tesebend.secret|Tesebend.secret]] 
 
