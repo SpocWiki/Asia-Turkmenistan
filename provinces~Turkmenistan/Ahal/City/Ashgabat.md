@@ -22,40 +22,40 @@ demonym:
 native_label: Aşgabat
 coordinate_location: Point(58.383333333 37.95)
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Aktau,198989]]"
-  - "[[_Standards/WikiData/WD~Athens,1524]]"
-  - "[[_Standards/WikiData/WD~Kyiv,1899]]"
-  - "[[_Standards/WikiData/WD~Ankara,3640]]"
-  - "[[_Standards/WikiData/WD~Bamako,3703]]"
-  - "[[_Standards/WikiData/WD~Bishkek,9361]]"
-  - "[[_Standards/WikiData/WD~Albuquerque,34804]]"
+  - "[[_Standards/WikiData/WD~Aktau,198989|WD~Aktau,198989]]"
+  - "[[_Standards/WikiData/WD~Athens,1524|WD~Athens,1524]]"
+  - "[[_Standards/WikiData/WD~Kyiv,1899|WD~Kyiv,1899]]"
+  - "[[_Standards/WikiData/WD~Ankara,3640|WD~Ankara,3640]]"
+  - "[[_Standards/WikiData/WD~Bamako,3703|WD~Bamako,3703]]"
+  - "[[_Standards/WikiData/WD~Bishkek,9361|WD~Bishkek,9361]]"
+  - "[[_Standards/WikiData/WD~Albuquerque,34804|WD~Albuquerque,34804]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~administrative_territorial_entity_of_Turkmenistan,842412]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~first_level_administrative_division,10864048]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-category_for_people_buried_here: "[[_Standards/WikiData/WD~Q7974800,7974800]]"
+  - "[[_Standards/WikiData/WD~administrative_territorial_entity_of_Turkmenistan,842412|WD~administrative_territorial_entity_of_Turkmenistan,842412]]"
+  - "[[_Standards/WikiData/WD~big_city,1549591|WD~big_city,1549591]]"
+  - "[[_Standards/WikiData/WD~first_level_administrative_division,10864048|WD~first_level_administrative_division,10864048]]"
+  - "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
+category_for_people_buried_here: "[[_Standards/WikiData/WD~Q7974800,7974800|WD~Q7974800,7974800]]"
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Büzmeýin_District,16057906]]"
-  - "[[_Standards/WikiData/WD~Bagtyýarlyk_District,16252807]]"
-  - "[[_Standards/WikiData/WD~Berkararlyk_District,17017409]]"
-  - "[[_Standards/WikiData/WD~Kopetdag_District,17071765]]"
-member_of: "[[_Standards/WikiData/WD~World_Tourism_Cities_Federation,67652870]]"
-head_of_government: "[[_Standards/WikiData/WD~Shamuhammet_Durdylyyev,105755861]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Ashgabat,106020435]]"
+  - "[[_Standards/WikiData/WD~Büzmeýin_District,16057906|WD~Büzmeýin_District,16057906]]"
+  - "[[_Standards/WikiData/WD~Bagtyýarlyk_District,16252807|WD~Bagtyýarlyk_District,16252807]]"
+  - "[[_Standards/WikiData/WD~Berkararlyk_District,17017409|WD~Berkararlyk_District,17017409]]"
+  - "[[_Standards/WikiData/WD~Kopetdag_District,17071765|WD~Kopetdag_District,17071765]]"
+member_of: "[[_Standards/WikiData/WD~World_Tourism_Cities_Federation,67652870|WD~World_Tourism_Cities_Federation,67652870]]"
+head_of_government: "[[_Standards/WikiData/WD~Shamuhammet_Durdylyyev,105755861|WD~Shamuhammet_Durdylyyev,105755861]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Ashgabat,106020435|WD~economy_of_Ashgabat,106020435]]"
 inception: 1881-01-01T00:00:00Z
-capital_of: "[[_Standards/WikiData/WD~Turkmenistan,874]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Turkmenistan,874]]"
-country: "[[_Standards/WikiData/WD~Turkmenistan,874]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+05_00,6806]]"
-official_language: "[[_Standards/WikiData/WD~Turkmen,9267]]"
+capital_of: "[[_Standards/WikiData/WD~Turkmenistan,874|WD~Turkmenistan,874]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Turkmenistan,874|WD~Turkmenistan,874]]"
+country: "[[_Standards/WikiData/WD~Turkmenistan,874|WD~Turkmenistan,874]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+05_00,6806|WD~UTC+05_00,6806]]"
+official_language: "[[_Standards/WikiData/WD~Turkmen,9267|WD~Turkmen,9267]]"
 elevation_above_sea_level: 219
 area: 765
 licence_plate_code: AG
@@ -81,7 +81,7 @@ postal_code: 744000 — 744901
 [geo-lat::37.96667] 
 [name::Ashgabat] 
 State ::  
-Country :: [[../../../../Turkmenistan]]  
+Country :: [[../../../../Turkmenistan|Turkmenistan]]  
 [StateId::] 
 [Population::] 
 [Unknown::32] 
