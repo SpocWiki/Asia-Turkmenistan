@@ -110,7 +110,7 @@ maxZoom: 18
 >
 > Today, as the capital of an independent Turkmenistan, Ashgabat retains a multiethnic population, with ethnic Turkmen as the majority. In 2021, it celebrated 140 years of its written history.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ashgabat)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ashgabat) 
 
 
 ## Confidential Links & Embeds: 
